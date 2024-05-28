@@ -1,0 +1,1 @@
+Finding signatures on saliva microbiota as a representative of oral microbiome, based on "enterosignature" concept introduced by Frioux et al. "https://linkinghub.elsevier.com/retrieve/pii/S1931312823002172"
