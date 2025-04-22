@@ -7,3 +7,4 @@ Finding signatures on saliva microbiota as a representative of oral microbiome, 
 6) W matrix: representing each genera and their weight assigned to each signature
 7) H matrix: proportion of each signature for each sample
 8) find optimal number of K for NMF algorithm, finding signatures and perform analysis on the obtained signatures
+[summary of project](https://github.com/dela-bam/saliva_signature_DB_LH/blob/main/summary_of_project.md) 
